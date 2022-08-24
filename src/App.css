@@ -32,14 +32,14 @@
     fill: rgba(0, 0, 0, 0);
     stroke: #D29EE6;
     stroke-width: 2;
-    stroke-dasharray: 942;
+    stroke-dasharray: 753;
     stroke-dashoffset: 0;
     filter: drop-shadow( 0px 0px 4px rgba(210, 158, 230, .7));
 }
 
 @keyframes rotate {
     to {
-        stroke-dashoffset: 942;
+        stroke-dashoffset: 753;
     }
 }
 

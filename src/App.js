@@ -68,7 +68,7 @@ function App() {
         setCenter({x: width * 0.5, y: width * 0.5});
     }, []);
 
-    const radius = 150;
+    const radius = 120;
 
     return (
         <div className="App">
